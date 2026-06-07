@@ -1,0 +1,20 @@
+[2026-04-22T07:23:57.427Z] ML EXEC ERROR:
+Error: Command failed: python "C:/Users/Pranay Gour/OneDrive/Desktop/AI Accident Severity Analysis/ml/analyze.py" "C:/Users/Pranay Gour/OneDrive/Desktop/AI Accident Severity Analysis/backend/uploads/1776842625178.jpg"
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:417:12)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+STDERR: 
+[2026-04-22T07:25:39.172Z] ML EXEC ERROR:
+Error: Command failed: python "C:/Users/Pranay Gour/OneDrive/Desktop/AI Accident Severity Analysis/ml/analyze.py" "C:/Users/Pranay Gour/OneDrive/Desktop/AI Accident Severity Analysis/backend/uploads/1776842727283.jpg"
+
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at ChildProcess.exithandler (node:child_process:417:12)
+    at ChildProcess.emit (node:events:519:28)
+    at maybeClose (node:internal/child_process:1101:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:304:5)
+STDERR: 
